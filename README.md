@@ -55,7 +55,7 @@ Teaching how to use statistics packages or programming is not the main focus of 
 
 ## TAs
 
-TBD
+안현회, 홍성형
 
 
 ## Evaluation
@@ -91,45 +91,43 @@ Week  | Video lectures | Class | Chapters or papers
 |3/22 | (PR) V06: Linear regression | |Ch.7|
 |    | (PR) V07: More about regression, re-expressing data | | Ch.8-9  |
 **Week 5** | | | |
-|3/27 | (OF) Scatterplots and Correlations  |  | |
-|3/29 | (OF) A04: Regression to the mean  |  | |
+|3/27 | (OF) A04: Regression to the mean  |  | |
+|3/29 | (PR) V08: Sampling | | Ch.8-9  |
+|     | (PR) V09: Design Experiment | | Ch.11-12  |
 **Week 6** | | | |
-|4/3 | (PR) V08: Sampling | | Ch.8-9  |
-|   | (PR) V09: Design Experiment | | Ch.11-12  |
-|4/5 | (OF) A05: Review and Q&A (or Designing Experiment)
-**Week 7** | | | |
-|4/10 | (PR) V10: Probability and bayes theorem |  | Ch.13-14  |
+|4/3 | (OF) A05: Review, Q&A, and Designing Experiment
+|4/5 | (PR) V10: Probability and bayes theorem |  | Ch.13-14  |
 |    | (PR) V11: Random variables | | Ch.15  |
-|4/12 | (OF) A06: Bayes theorem and random variables | | |
+**Week 7** | | | |
+|4/10 | (OF) A06: Bayes theorem and random variables | | |
+|4/12 | (PR) V12: Probability models | | Ch.16  |
 **Week 8** | | | |
-|4/17 | (PR) V12: Probability models | | Ch.16  |
-|    | (PR) V13: Softwares and programming languages | | |
-|4/19 | (OF) A07: Probability models |   |  |
+|4/17 | (PR) V13: Softwares and programming languages | | |
+|4/19 | (PR) V14: Sampling distribution, central limit theorem |  | Ch.17  |
 **Week 9** | | | |
-|4/24 | (PR) V14: Sampling distribution, central limit theorem |  | Ch.17  |
-|    | (PR) V15: Confidence interval for proportions  |  | Ch.18  |
-|4/26 | (OF) A08: Central limit theorem & survey |  | |
+|4/24 | (OF) A07: Probability models |   |  |
+|4/26 | (PR) V15: Confidence interval for proportions  |  | Ch.18  |
+| | (PR) V16: Hypothesis testing, P-values |  | Ch.19 |
 **Week 10** | | | |
-|5/1 |  (PR) V16: Hypothesis testing, P-values |  | Ch.19 |
-|   |  (PR) V17: Inferences about means |  | Ch.20 |
-|5/3 |  (OF) A09: t-test (1) using survey data | | |
+|5/1 |  (OF) A08: Central limit theorem & survey |  | |
+|5/3 |  (PR) V17: Inferences about means |  | Ch.20 | 
+|    |  (PR) V18: More about tests and intervals  |  | Ch. 21| 
 **Week 11** | | | |
-|5/8 |  (PR) V18: More about tests and intervals  |  | Ch. 21| 
-|   |  (PR) V19:Comparing groups  | | Ch. 22  |
+|5/8 |  (OF) A09: t-test (1) using survey data | | |
+|5/10   |  (PR) V19:Comparing groups  | | Ch. 22  |
 |   |  (PR) V20: Paired t-test |  | Ch. 23  |
-|5/10 | (OF) A10: t-test (2) | | | 
 **Week 12** | | | |
-|5/15 | (PR) V21: Comparing counts | | Ch. 24 |
-|    | (PR) V22: Inferences about regression |  | Ch. 25|
-|5/17 | (OF) TBD (maybe a lecture on "Statistics in a laboratory") 
+|5/15 |  (OF) A10: t-test (2) | | | 
+|5/17 | (PR) V21: Comparing counts | | Ch. 24 |
+|     | (PR) V22: Inferences about regression |  | Ch. 25|
 **Week 13** | | | |
-|5/22 | (PR) V23: Analysis of Variance (ANOVA) |  | Ch. 26  |
-|    | (PR) V24: Multifactor ANOVA | | Ch. 27  |
-|5/24 | (OF) TBD (maybe Review and Q&A) | | |
+|5/22 | (OF) TBD (maybe Statistics in Laboratory) | | |
+|5/24 |(PR) V23: Analysis of Variance (ANOVA) |  | Ch. 26  |
+|     | (PR) V24: Multifactor ANOVA | | Ch. 27  |
 **Week 14** | | | |
-|5/29 | (PR) V25: Multiple regression | | Ch.28  |
-|    | (PR) V26: Multiple regression wisdom | | Ch. 29|
-|5/31 | (OF) TBD (maybe Review and Q&A) | | |
+|5/29 | (OF) Review and Q&A | | |
+|5/31 | (PR) V25: Multiple regression | | Ch.28  |
+|     | (PR) V26: Multiple regression wisdom | | Ch. 29|
 **Week 15** | | | |
 |6/5-6/7 | Final | | |
 
