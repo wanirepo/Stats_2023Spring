@@ -96,7 +96,7 @@ Week  | Video lectures | Class | Chapters or papers
 |     | (PR) V09: Design Experiment | | Ch.11-12  |
 **Week 6** | | | |
 |4/3 | (OF) A05: Review, Q&A, and Designing Experiment
-|4/5 | (PR) V10: Probability and bayes theorem |  | Ch.13-14  |
+|4/5 | (PR) V10: Probability and Bayes theorem |  | Ch.13-14  |
 |    | (PR) V11: Random variables | | Ch.15  |
 **Week 7** | | | |
 |4/10 | (OF) A06: Bayes theorem and random variables | | |
@@ -109,7 +109,7 @@ Week  | Video lectures | Class | Chapters or papers
 |4/26 | (PR) V15: Confidence interval for proportions  |  | Ch.18  |
 | | (PR) V16: Hypothesis testing, P-values |  | Ch.19 |
 **Week 10** | | | |
-|5/1 |  (OF) A08: Central limit theorem & survey |  | |
+|5/1 |  (OF) A08: Central limit theorem and survey (led by TAs)|  | |
 |5/3 |  (PR) V17: Inferences about means |  | Ch.20 | 
 |    |  (PR) V18: More about tests and intervals  |  | Ch. 21| 
 **Week 11** | | | |
