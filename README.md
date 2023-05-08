@@ -109,23 +109,23 @@ Week  | Video lectures | Class | Chapters or papers
 |4/26 | (PR) V15: Confidence interval for proportions  |  | Ch.18  |
 | | (PR) V16: Hypothesis testing, P-values |  | Ch.19 |
 **Week 10** | | | |
-|5/1 |  (OF) A08: Central limit theorem and survey (led by TAs)|  | |
+|5/1 |  (OF) A08: Central limit theorem (led by TAs)|  | |
 |5/3 |  (PR) V17: Inferences about means |  | Ch.20 | 
 |    |  (PR) V18: More about tests and intervals  |  | Ch. 21| 
 **Week 11** | | | |
-|5/8 |  (OF) A09: t-test (1) using survey data | | |
+|5/8 |  (OF) A09: Quiz review & survey making | | |
 |5/10   |  (PR) V19:Comparing groups  | | Ch. 22  |
 |   |  (PR) V20: Paired t-test |  | Ch. 23  |
 **Week 12** | | | |
-|5/15 |  (OF) A10: t-test (2) | | | 
+|5/15 |  (OF) A10: t-test  | | | 
 |5/17 | (PR) V21: Comparing counts | | Ch. 24 |
 |     | (PR) V22: Inferences about regression |  | Ch. 25|
 **Week 13** | | | |
-|5/22 | (OF) TBD (maybe Statistics in Laboratory) | | |
+|5/22 | (OF) A11: t-test and more | | |
 |5/24 |(PR) V23: Analysis of Variance (ANOVA) |  | Ch. 26  |
 |     | (PR) V24: Multifactor ANOVA | | Ch. 27  |
 **Week 14** | | | |
-|5/29 | (OF) Review and Q&A | | |
+|5/29 | (OF) A12: Other tests | | |
 |5/31 | (PR) V25: Multiple regression | | Ch.28  |
 |     | (PR) V26: Multiple regression wisdom | | Ch. 29|
 **Week 15** | | | |
