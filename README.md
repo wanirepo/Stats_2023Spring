@@ -121,11 +121,11 @@ Week  | Video lectures | Class | Chapters or papers
 |5/17 | (PR) V21: Comparing counts | | Ch. 24 |
 |     | (PR) V22: Inferences about regression |  | Ch. 25|
 **Week 13** | | | |
-|5/22 | (OF) A11: t-test and more | | |
+|5/22 | (OF) A11: chi-square and regression | | |
 |5/24 |(PR) V23: Analysis of Variance (ANOVA) |  | Ch. 26  |
 |     | (PR) V24: Multifactor ANOVA | | Ch. 27  |
 **Week 14** | | | |
-|5/29 | (OF) A12: Other tests | | |
+|5/29 | 대체공휴일 | | |
 |5/31 | (PR) V25: Multiple regression | | Ch.28  |
 |     | (PR) V26: Multiple regression wisdom | | Ch. 29|
 **Week 15** | | | |
